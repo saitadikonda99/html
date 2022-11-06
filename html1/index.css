@@ -1,0 +1,21 @@
+
+   html {
+
+      font-size: 22px;
+      font-style: calc();
+      background-color: aqua;
+   }
+button {
+
+      background-color: red;
+      color: aliceblue;
+      border: none;
+       font-size: large;
+       text-decoration: none;
+border-radius: 0.2cm;
+   }
+
+   
+hr {
+   color: aliceblue;
+}
